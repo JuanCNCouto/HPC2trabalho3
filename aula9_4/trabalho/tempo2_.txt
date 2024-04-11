@@ -1,0 +1,7 @@
+terminate called after throwing an instance of 'std::bad_array_new_length'
+  what():  std::bad_array_new_length
+./Script.x, linha 6: 29774 Abortado                (imagem do núcleo gravada)./prog2 $i $i
+
+real	0m0,003s
+user	0m0,002s
+sys	0m0,000s

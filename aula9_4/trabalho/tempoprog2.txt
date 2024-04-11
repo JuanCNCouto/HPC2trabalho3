@@ -1,0 +1,5 @@
+./Script.x, linha 7: 29034 Morto                   ./prog
+
+real	0m20,815s
+user	0m1,236s
+sys	0m3,927s

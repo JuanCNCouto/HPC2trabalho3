@@ -1,0 +1,6 @@
+2 
+delta T = 64.7894 segundos
+3 
+delta T = 64.5515 segundos
+4 
+delta T = 7.50448 segundos

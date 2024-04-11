@@ -1,0 +1,5 @@
+./Script.x: linha 9: ./progji: Arquivo ou diretório inexistente
+
+real	0m0,000s
+user	0m0,000s
+sys	0m0,000s
